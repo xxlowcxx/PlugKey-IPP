@@ -1,19 +1,18 @@
-# Plug Key
+# Plug Key and IPP
 
-A USB that talks by how many times it is inserted.
+Two projects share this repo. They are not the same program.
 
-It started as a second insertion, so one stick could supply a second factor. It became an emergency language for a failed or locked-out system. A physical insertion is not a setting a program can mute.
+| | Plug Key | IPP |
+| --- | --- | --- |
+| What it is | A USB that talks by how many times it is inserted. | Independent plug persistence. The language and IP layer for privacy and secure exchange. |
+| Started as | A second insertion, so one stick could supply a second factor. | A language created for Plug Key. The value stretches past the stick. |
+| What it is not | IPP. A password file. A published bypass. | The stick itself. |
+| Status | Inventory and owned-hardware design. Code comes back in a later push. | The same. The page is the record until the language has a body. |
+| Also called | The hand. The stick. | The tongue. The layer. |
+| Owner | LowC. Toolaid. | LowC. Toolaid. |
 
-Inventory and owned-hardware design. This page does not publish a bypass.
+A physical insertion is not a setting a program can mute. That is the Plug Key idea. IPP is where that idea becomes a language: who may speak, what a move means, and how a wrong sentence is undone.
 
-Owner: LowC. Toolaid.
+## Mission
 
-# IPP
-
-Independent plug persistence.
-
-Created for Plug Key. The value stretches past the stick. IPP is its own language, idea, and IP layer for privacy and secure exchange.
-
-Plug Key is the USB. IPP is the layer the language lives in. IPP is not the stick.
-
-Owner: LowC. Toolaid.
+Repush the code and finish each project. This page stays the reader. Exact timings and any bypass stay off this page.
